@@ -1,3 +1,4 @@
+<script>
 prompt(“Are you ready to play?”);
 if (prompt = “yes”) {
 	console.log(“Go ahead and play”);
@@ -40,3 +41,4 @@ if (prompt < 8) {
 } else {
 	console.log(“Thanks for playing”);
 }
+</script>
